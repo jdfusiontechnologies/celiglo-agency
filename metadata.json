@@ -1,0 +1,6 @@
+{
+  "name": "Celiglo Agency Limited",
+  "description": "Corporate operations platform for Celiglo Agency Limited - Waste management, collection, recycling and environmental services in Kenya. Official slogan: DONT MIX IT, SORT IT, TAKA NI PESA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
